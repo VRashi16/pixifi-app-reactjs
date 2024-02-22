@@ -16,21 +16,5 @@ A Pinterest clone created with React. I used styled-components to create the gri
 <a href="https://pedrolorandi.github.io/pinterest-clone/" target="_blank">
   <img src="https://img.shields.io/badge/view_live-white.svg?style=for-the-badge&logo=airplay-video&logoColor=black" alt="View Live" />
 </a>
-
-<div>
-    <a href="https://www.loom.com/share/cb337b52333f4a7399a72301ee407988">
-      <p>Pinterest Clone - 22 February 2024 - Watch Video</p>
-    </a>
-    <a href="[alt](https://github.com/VRashi16/pixifi-app-reactjs/blob/ed07ec9c1d665bf964da1c1d26025429e483ad19/new%20(1).mp4)">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cb337b52333f4a7399a72301ee407988-with-play.gif">
-    </a>
-  </div>
-
-
+</br>
 https://github.com/VRashi16/pixifi-app-reactjs/assets/42666448/9d3c05f8-9842-43d1-aba5-3621df703af9
-
-
-
-[https://github.com/VRashi16/pixifi-app-reactjs/blob/ed07ec9c1d665bf964da1c1d26025429e483ad19/new%20(1).mp4]
-
-https://github.com/VRashi16/pixifi-app-reactjs/blob/ed07ec9c1d665bf964da1c1d26025429e483ad19/new%20(1).mp4
