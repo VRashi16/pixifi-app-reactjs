@@ -21,8 +21,9 @@ A Pinterest clone created with React. I used styled-components to create the gri
     <a href="https://www.loom.com/share/cb337b52333f4a7399a72301ee407988">
       <p>Pinterest Clone - 22 February 2024 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/cb337b52333f4a7399a72301ee407988">
+    <a href="/pinterest_video.mp4">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cb337b52333f4a7399a72301ee407988-with-play.gif">
     </a>
   </div>
+
 
