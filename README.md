@@ -16,3 +16,13 @@ A Pinterest clone created with React. I used styled-components to create the gri
 <a href="https://pedrolorandi.github.io/pinterest-clone/" target="_blank">
   <img src="https://img.shields.io/badge/view_live-white.svg?style=for-the-badge&logo=airplay-video&logoColor=black" alt="View Live" />
 </a>
+
+<div>
+    <a href="https://www.loom.com/share/cb337b52333f4a7399a72301ee407988">
+      <p>Pinterest Clone - 22 February 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/cb337b52333f4a7399a72301ee407988">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cb337b52333f4a7399a72301ee407988-with-play.gif">
+    </a>
+  </div>
+
