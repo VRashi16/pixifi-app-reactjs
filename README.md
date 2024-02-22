@@ -27,6 +27,8 @@ A Pinterest clone created with React. I used styled-components to create the gri
   </div>
 
 
+https://github.com/VRashi16/pixifi-app-reactjs/assets/42666448/9d3c05f8-9842-43d1-aba5-3621df703af9
+
 
 
 [https://github.com/VRashi16/pixifi-app-reactjs/blob/ed07ec9c1d665bf964da1c1d26025429e483ad19/new%20(1).mp4]
